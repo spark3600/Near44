@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 JYOTSANA ROBOT IS A MODULAR BOT WITH ANIME THEME 」──
+    ──「 RENGOKU BOT IS A MODULAR BOT WITH ANIME THEME 」──
 </h2>
 
 <p align="center">
